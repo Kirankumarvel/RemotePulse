@@ -1,6 +1,3 @@
-Here is the formatted content for the `README.md` file:
-
----
 
 # RemotePulse
 
@@ -53,7 +50,7 @@ ssh user@remote-server-ip
 
 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/remote-pulse.git
+git clone https://github.com/Kirankumarvel/RemotePulse.git
 cd remote-pulse
 ```
 
